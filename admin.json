@@ -18,5 +18,15 @@
             "iv": "FyfLzz3xFSU8lVZf",
             "authTag": "oC/f8pw1eCbW/a1mgwB5GA=="
         }
+    },
+    {
+        "admin_user": "user1",
+        "admin_hash": "25f43b1486ad95a1398e3eeb3d83bc4010015fcc9bedb35b432e00298d5021f7",
+        "secure_payload": {
+            "data": "M3KeW64l20QFbhqGtUr6jS1QCnYkkZ3yyrxNWEzBPrRxtvQghiJPDhoimW+dU+GYPeegg5LsLJH+oB/2ixhIvyapwsjoGyv15bqDjw7z+vAbkmCVhPqqniM5hs9l",
+            "salt": "hlh6AJTPBF9Vg66KKUE1cg==",
+            "iv": "yE+67W0K1p0rxNs5",
+            "authTag": "cp0bRflkUxEhZee1lRK+Eg=="
+        }
     }
 ]
