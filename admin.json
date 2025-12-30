@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "admin_user": "test",
+        "admin_hash": "R8hhR+cJSIfGRl7jvjfSRWZSmbStz0vnJdFgUjoaIIo=",
+        "verifier_salt": "hX6dK9VLPnh7ZeQmofv2FQ==",
+        "verifier_kdf": "pbkdf2",
+        "verifier_kdf_params": {
+            "iterations": 200000,
+            "hash": "sha256"
+        },
+        "secure_payload": {
+            "data": "TKNcb3dd+uWlDsgON4Hn9JcTDwDZNHxiWexhHRJXnzhYG7POcHiHZaAm3D9Z19lVF8PSJoUD/pGjODZEWdMnVRstNKx6SHdfoVw3+MrgrilKN6yBrAHrnHRE9ONh",
+            "salt": "dr+UOvDa3n50mnrom8LEig==",
+            "iv": "5qdXBFJx6EQUMY0j",
+            "authTag": "HVPwZnpab9HgPbFAXgyy3g==",
+            "kdf": "pbkdf2",
+            "kdf_params": {
+                "iterations": 200000,
+                "hash": "sha256"
+            }
+        }
+    }
+]
