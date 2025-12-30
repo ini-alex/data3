@@ -8,5 +8,15 @@
             "iv": "rGJ4DkmSd2BEBB+5",
             "authTag": "wdoieJJbJaVv1vZxNE07xA=="
         }
+    },
+    {
+        "admin_user": "test4",
+        "admin_hash": "a4e624d686e03ed2767c0abd85c14426b0b1157d2ce81d27bb4fe4f6f01d688a",
+        "secure_payload": {
+            "data": "yo7j8EhsNdV26D29Pb92/LnnB88BDVLltpNewliZlyJ3qaJ++fHWs7ZNkKIio1szzI9ETzZlVGvvMWnkxTwrNLs8M0rDGb4LT43CKA3lXN2+/R4VzIamh28tSabh",
+            "salt": "925uXTuvM7xOB9r9YQEwXw==",
+            "iv": "FyfLzz3xFSU8lVZf",
+            "authTag": "oC/f8pw1eCbW/a1mgwB5GA=="
+        }
     }
 ]
