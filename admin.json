@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "admin_user": "test3",
+        "admin_hash": "fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13",
+        "secure_payload": {
+            "data": "KeWz2BmNJXO1/Z0IonteJK83DMAwFwqppe9tbaFoBHXwYopLuX7XInozDPYEkYfdnWYbrD2dg1uVJMdjwYC3wVHD8bp2oYS/CETTy+PST7zJ+SIKaJGelkfqIYv7",
+            "salt": "qknAe0lYG043fIey7zCDRw==",
+            "iv": "rGJ4DkmSd2BEBB+5",
+            "authTag": "wdoieJJbJaVv1vZxNE07xA=="
+        }
+    }
+]
